@@ -1,0 +1,6 @@
+interface:
+  display_name: "OSE 数据建模与评审"
+  short_description: "按 OSE 当前 MySQL 架构检查表结构、查询、指标和并发更新"
+  default_prompt: "使用 $ose-data-modeling-review 检查本次数据相关改动，给出规则编号和最小修改建议。"
+policy:
+  allow_implicit_invocation: true

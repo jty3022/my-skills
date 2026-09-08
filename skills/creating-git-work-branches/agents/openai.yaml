@@ -1,0 +1,4 @@
+interface:
+  display_name: "创建规范 Git 工作分支"
+  short_description: "创建、审阅提交并推送远端同名 Git 任务分支"
+  default_prompt: "使用 $creating-git-work-branches 从最新 main 创建规范分支，提交前让我审阅，并安全推送到远端同名分支。"
