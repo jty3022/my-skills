@@ -5,7 +5,7 @@ description: 在 OSE 新增、修改或评审 MySQL 表结构、数据查询、�
 
 # OSE 数据建模与评审
 
-仅适用于 `/Users/jty/develop/code/ose` 及其三个现有项目，不推广至其他项目。
+仅适用于 OSE 的 `oseflow-api`、`oseflow-apps`、`oseflow-epc-legecy` 三个项目，不依赖本机目录路径，不推广至其他项目。
 
 ## 流程
 
